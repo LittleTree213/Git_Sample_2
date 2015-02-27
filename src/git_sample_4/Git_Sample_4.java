@@ -15,10 +15,11 @@ public class Git_Sample_4 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("One of the configuration items changed!");
+       // System.out.println("One of the configuration items changed!");
         System.out.println("One of the configuration items changed by another collaborate!");
         int a = 2;
         int b = 3;
+        int c = a*b;
         
     }
     
