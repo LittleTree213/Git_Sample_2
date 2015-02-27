@@ -16,6 +16,7 @@ public class Git_Sample_4 {
      */
     public static void main(String[] args) {
         System.out.println("One of the configuration items changed!");
+        System.out.println("One of the configuration items changed by another collaborate!");
     }
     
 }
