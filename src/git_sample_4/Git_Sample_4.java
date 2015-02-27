@@ -15,7 +15,7 @@ public class Git_Sample_4 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("One of the configuration items changed!");
     }
     
 }
